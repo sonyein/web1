@@ -1,0 +1,35 @@
+:root {
+    --bs-body-font-family: 'Noto Sans KR', sans-serif;
+  }
+  
+.custom-navbar {
+    background-color: #e8eef5;
+}
+.navbar-brand {
+    color: #92b3ce;
+    font-weight: 600;
+}
+
+body h1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    padding-top: 25px; 
+    padding-bottom: 40px;
+    font-weight: 600;
+    padding-left: 10px;
+
+    color: #8db1d7;
+
+}
+
+h1 a {
+    text-decoration: none;
+
+}
+h1 a:visited {
+    color: inherit;
+}
+
+h2 {
+    text-align: center;
+}
